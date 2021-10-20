@@ -1,0 +1,26 @@
+Наименование	Тип товара	Артикул	Габариты	Комната	Цена	Ссылка на товар	
+СОНГЕСАНД	"Каркас 
+кровати"	092.412.84	140x200 см	Спальня	11 599 ?	https://www.ikea.com/ru/ru/p/songesand-songesand-karkas-krovati-belyy-luroy-s09241284/	 
+ХАФСЛО	"Пружинный
+матрас"	603.705.45	140x200 см	Спальня	5 999 ?	https://www.ikea.com/ru/ru/p/hafslo-hafslo-pruzhinnyy-matras-zhestkiy-bezhevyy-60370545/	 
+КЛЕППСТАД	"Гардероб 
+3-дверный"	404.417.61	117x176 см	Спальня	7 999 ?	https://www.ikea.com/ru/ru/p/kleppstad-kleppstad-garderob-3-dvernyy-belyy-40441761/	 
+МАЛЬМ	"Комод с 2 
+ящиками"	003.685.31	40x55 см	Спальня	2 499 ?	https://www.ikea.com/ru/ru/p/malm-malm-komod-s-2-yashchikami-belyy-00368531/	 
+ТИПХЕДЕ	Ковер безворсовый	604.567.56	120x180 см	Спальня	799 ?	https://www.ikea.com/ru/ru/p/tiphede-tiphede-kover-bezvorsovyy-neokrashennyy-chernyy-60456756/	 
+ФРИХЕТЭН	"3-местный 
+диван-кровать"	904.115.54	225х83 см	Гостиная	22 999 ?	https://www.ikea.com/ru/ru/p/friheten-friheten-3-mestnyy-divan-krovat-shiftebu-temno-siniy-90411554/	 
+СПОРУП	Ковер	204.534.39	170x240 см	Гостиная	5 299 ?	https://www.ikea.com/ru/ru/p/sporup-sporup-kover-korotkiy-vors-svetlo-bezhevyy-20453439/	 
+ЛЁВБАККЕН	"Придиванный 
+столик"	503.787.16	77x39 см	Гостиная	4 999 ?	https://www.ikea.com/ru/ru/p/loevbacken-lyovbakken-pridivannyy-stolik-klassicheskiy-korichnevyy-50378716/	 
+ОРСТИД	"Светильник 
+напольный"	603.605.51	155х36 см	Гостиная	3 999 ?	https://www.ikea.com/ru/ru/p/arstid-orstid-svetilnik-napolnyy-latun-belyy-60360551/	 
+ЛОММАРП	Шкаф	404.154.70	102x101 см	Гостиная	21 999 ?	https://www.ikea.com/ru/ru/p/lommarp-lommarp-shkaf-temnyy-sine-zelenyy-40415470/	 
+							
+							
+							
+							
+							
+							
+							
+							
